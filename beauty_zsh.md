@@ -11,3 +11,8 @@ echo 'source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme' >>~/.zs
 then you will look a page that will help you setting the powerlevel10k. It will be very very beautiful. 
 
 Just do it!
+
+
+# how to modify the setted page
+
+TODO
