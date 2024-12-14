@@ -5,3 +5,5 @@ Let's install something
 [install rust in arch](./rust_install.sh)
 
 [beauty zsh](./beauty_zsh.md)
+
+[install the jupyter](./jupyter_install.md)
