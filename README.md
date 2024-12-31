@@ -1,4 +1,5 @@
-Let's install something
+Let's install some interesting things!!
+
 
 ## Configure various language environments
 
@@ -7,3 +8,6 @@ Let's install something
 [beauty zsh](./beauty_zsh.md)
 
 [install the jupyter](./jupyter_install.md)
+
+[config the ssh](./ssh_generate.md)
+
