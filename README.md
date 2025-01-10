@@ -7,3 +7,7 @@ Let's install something
 [beauty zsh](./beauty_zsh.md)
 
 [install the jupyter](./jupyter_install.md)
+
+[install clash webui](./clash_webui.md)
+
+
