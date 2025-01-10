@@ -1,4 +1,5 @@
-Let's install something
+Let's install some interesting things!!
+
 
 ## Configure various language environments
 
@@ -10,4 +11,5 @@ Let's install something
 
 [install clash webui](./clash_webui.md)
 
+[config the ssh](./ssh_generate.md)
 
